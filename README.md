@@ -1,2 +1,0 @@
-# AUC-public
-AUC public
